@@ -6,8 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/82a0835c-844c-4366-9d4f-f275a11f58ab
-
+View your app in AI Studio: https://waikinchoong.github.io/SkillSync/
 ## Run Locally
 
 **Prerequisites:**  Node.js
