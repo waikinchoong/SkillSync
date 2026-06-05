@@ -1,0 +1,6 @@
+{
+  "name": "SkillSync",
+  "description": "University student skill exchange platform to search for peer tutors, offer skills, book learning sessions, and review experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
